@@ -1,0 +1,2 @@
+Bu projede gerekli bilgilerin girilmesiyle ve cv oluştur butonuna basılmasıyla, karşımıza cv'mizi çıkartan bir program yapılmıştır.
+Projeyi yaparken intellij idea ve javafx kullanılmıştır.
